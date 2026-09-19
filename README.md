@@ -1,4 +1,1 @@
-# 9-19-03-repo
-
-对应选题：Petri 网并发模拟器
-
+# Petri 网并发模拟器`n`n**类型**：Web/Canvas`n
